@@ -93,7 +93,7 @@
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
 
-	editor = 'subl'
+	editor = 'subl' --wait
 
 	# Treat spaces before tabs and all kinds of trailing whitespace as an error
 	# [default] trailing-space: looks for spaces at the end of a line
